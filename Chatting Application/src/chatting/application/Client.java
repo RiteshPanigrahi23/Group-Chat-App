@@ -104,7 +104,7 @@ public class Client implements ActionListener {
         f.setUndecorated(true);
         f.getContentPane().setBackground(Color.WHITE);
         
-        f.setVisible(true);
+        f.setVisible(true);`
     }
     
     public void actionPerformed(ActionEvent ae) {
